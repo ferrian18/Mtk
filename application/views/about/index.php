@@ -12,8 +12,8 @@
                     " class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">
-                            Nama : Ferrian Erlangga <br>
-                            NIM : 12182282 <br>
+                            Nama : Bagus Fijatmiko <br>
+                            NIM : 12182224 <br>
                             Kelas : 12.7AA.05
                         </p>
                     </div>
@@ -25,8 +25,8 @@
                     " class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">
-                            Nama : Ferrian Erlangga <br>
-                            NIM : 12182282 <br>
+                            Nama : Dhyaul Umam <br>
+                            NIM : 12182258 <br>
                             Kelas : 12.7AA.05
                         </p>
                     </div>
@@ -38,8 +38,8 @@
                     " class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">
-                            Nama : Ferrian Erlangga <br>
-                            NIM : 12182282 <br>
+                            Nama : Ghina Zhafira Asfirman<br>
+                            NIM : 12182423 <br>
                             Kelas : 12.7AA.05
                         </p>
                     </div>
