@@ -1,0 +1,114 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+.jumbotron {
+	padding-top: 7rem;
+	background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+.border-primary {
+	padding: 20px;
+	width: 100%;
+	margin: 10px;
+}
+
+.row {
+	margin-bottom: 45px;
+	transition: 1s;
+}
+
+/** Services section **/
+
+.Services {
+	margin-top: 50px;
+	padding: 60px 0;
+	background: none;
+	font-family: Poppins;
+}
+
+.Services .titlepage {
+	text-align: center;
+}
+
+.Services .titlepage h2 {
+	color: #fff;
+	padding-bottom: 10px;
+	font-size: 50px;
+	font-weight: 600;
+}
+
+.Services .titlepage p {
+	color: #fff;
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+
+.Services .Services-box i {
+	background: #fff;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	display: inline-block;
+	padding-top: 19px;
+}
+
+.Services .Services-box h3 {
+	padding: 20px 0px 20px 0px;
+	font-size: 30px;
+	line-height: 25px;
+	color: white;
+	display: block;
+	font-weight: 500;
+}
+
+.Services .Services-box {
+	height: 350px;
+	text-align: center;
+	background-color: transparent;
+	border-radius: 20px;
+	border: #0fbcf9 solid 2px;
+	padding: 40px;
+	transition: ease-in all 0.5s;
+	margin-bottom: 30px;
+	font-size: 20px;
+}
+
+.Services .Services-box:hover {
+	background: #2c5364;
+	transition: ease-in all 0.5s;
+	cursor: pointer;
+	color: white;
+}
+
+.Services .Services-box p {
+	font-size: 18px;
+	line-height: 24px;
+	color: white;
+}
+
+.service-box a {
+	margin: 15px;
+	border: 1px solid #753475;
+	font-size: 13px;
+	margin-bottom: 29px;
+	padding: 10px 22px;
+	background: white;
+	color: #753475;
+}
+
+.service-box a:hover {
+	background: #753475;
+	color: #fff;
+}
+
+/** end Services section **/
+
+/*content Blog*/
+
+/*end content Blog*/
